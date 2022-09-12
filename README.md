@@ -1,3 +1,9 @@
 # landingpage
- Landing page produzida em html e css
+ produzida em html e css
  
+ 
+
+
+Deploy do projeto feito pelo netlify
+
+https://landingpagetestg.netlify.app/
