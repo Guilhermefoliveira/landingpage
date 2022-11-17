@@ -6,4 +6,4 @@
 
 Deploy do projeto feito pelo netlify
 
-https://landingpagetestg.netlify.app/
+
